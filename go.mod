@@ -1,3 +1,3 @@
-module github.com/tisnik/integers/v2
+module github.com/tisnik/integers/v4
 
 go 1.13
